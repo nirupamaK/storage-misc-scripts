@@ -6,6 +6,7 @@
 #
 # Homepage: http://thobias.org/python
 # Author  : Thobias Salazar Trevisan (thobias at thobias.org)
+# Modified: Nirupama Karandikar (nirupama.karandikar@gmail.com)
 #
 # Changelog (DD/MM/YYYY):
 # 15/10/2016 - first version
